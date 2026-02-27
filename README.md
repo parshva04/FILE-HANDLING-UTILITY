@@ -10,7 +10,7 @@
 
 This project, titled **"File Handling Utility"**, is an internship task assigned by CODTECH. The objective of this task is to develop a Java-based program that demonstrates fundamental file operations, including **reading, writing, and modifying** text files. The deliverable includes a well-structured Java script with clear documentation to illustrate file handling functionalities effectively.
 
-### **Overview of the Workflow in IntelliJ IDEA**  
+### **Overview of the Workflow in Eclipse IDE**  
 
 The development of this project was carried out in **Eclipse IDE**, a widely used Java IDE that provides powerful coding and debugging tools. The workflow followed in implementing the **File Handling Utility** can be broken down into several key stages:
 
@@ -109,8 +109,8 @@ After implementing the functions, the **main method** was used to:
 3. Modify the file by replacing "sample" with "example."
 4. Read and display the modified content.
 
-#### **Execution Output in IntelliJ IDEA**  
-The execution output from IntelliJ IDEA confirms that the operations were performed correctly:
+#### **Execution Output in Eclipse IDE**  
+The execution output from Eclipse IDE confirms that the operations were performed correctly:
 
 <img width="955" height="205" alt="Image" src="https://github.com/user-attachments/assets/1a5c669a-4a1f-43a4-a411-e99c2eca99d2" />
 
@@ -119,14 +119,14 @@ The execution output from IntelliJ IDEA confirms that the operations were perfor
 
 ---
 
-### **4. Summary of the Work Done in IntelliJ IDEA**
-- **Created a new Java project** in IntelliJ IDEA.
+### **4. Summary of the Work Done in Eclipse IDE**
+- **Created a new Java project** in Eclipse IDE.
 - **Implemented file operations** (writing, reading, modifying).
 - **Ran the program** and verified the outputs.
-- **Used IntelliJ's built-in terminal** to execute and debug the Java code.
+- **Used Eclipse's built-in terminal** to execute and debug the Java code.
 - **Displayed console logs** confirming successful execution.
 
 ---
 
 ### **Conclusion**
-The **File Handling Utility** program successfully demonstrates essential file operations in Java. It efficiently performs writing, reading, and modifying text files while ensuring **code readability and maintainability**. The structured approach taken in **IntelliJ IDEA** facilitated a seamless development and testing process. This project serves as a fundamental example of handling files in Java and provides a solid foundation for more advanced file-processing applications.
+The **File Handling Utility** program successfully demonstrates essential file operations in Java. It efficiently performs writing, reading, and modifying text files while ensuring **code readability and maintainability**. The structured approach taken in **Eclipse IDE** facilitated a seamless development and testing process. This project serves as a fundamental example of handling files in Java and provides a solid foundation for more advanced file-processing applications.
