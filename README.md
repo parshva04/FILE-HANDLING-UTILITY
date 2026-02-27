@@ -112,7 +112,7 @@ After implementing the functions, the **main method** was used to:
 #### **Execution Output in IntelliJ IDEA**  
 The execution output from IntelliJ IDEA confirms that the operations were performed correctly:
 
-
+<img width="955" height="205" alt="Image" src="https://github.com/user-attachments/assets/1a5c669a-4a1f-43a4-a411-e99c2eca99d2" />
 
 - **Before modification:** The file contained `"Hello, this is a sample text file."`
 - **After modification:** The word `"sample"` was changed to `"example"` in `"Hello, this is a example text file."`
